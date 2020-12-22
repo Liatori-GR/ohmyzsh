@@ -1,5 +1,5 @@
 # My Custom super Clean Z-Shell Theme made by me Liato aka Liatoast!
-# You don't have any Requirements to use this theme except ofcourse Z-Shell and oh-my-zsh :3
+# Absolutely no Requirements needed to use this Theme.
 # Github Repo: https://github.com/Liatori-GR/ohmyzsh
 
 prompt_setup_liato(){
